@@ -1,0 +1,25 @@
+
+
+# Project: Statistical Analysis
+
+## Overview
+ This is my project for the second module in Ironhack. This project aims to make a statistical analysis of CO2 concentration in the Earth around 800K past years.
+
+### Presentation
+
+Here is my presentation with my conclusions and forecast about the behavior of the CO2:
+https://docs.google.com/presentation/d/1QK1pwkMdiKHkR1xuSnQfIJQ4ejc_89ona5mHkXj8UiY/edit?usp=sharing
+
+---
+
+## Technical Requirements
+Jupyter notebook and have installed the libraries at the beginning of the notebook.
+---
+## Process
+Download CSV with the information of NOAA datasets of paleoclimatology: https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/datasets/ice-core 
+
+1. Download data
+2. Data cleaning
+3. Divide the data frame in 2 because of the eras of the Earth:
+4. Data statistical analysis
+5. Forecast with Sarimax about the concentration of CO2 next years 
